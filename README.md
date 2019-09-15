@@ -51,3 +51,4 @@ mutation AddNewContest($input: ContestInput!) {
 } 
 
 ```
+# CICD
